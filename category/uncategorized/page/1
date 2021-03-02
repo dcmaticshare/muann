@@ -10,24 +10,24 @@
 	<title>Uncategorized &#8211; Muann</title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Feed" href="http://muann.local/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Comments Feed" href="http://muann.local/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Uncategorized Category Feed" href="http://muann.local/category/uncategorized/feed/" />
-<noscript><link rel='stylesheet' href='http://muann.local/wp-content/themes/blocksy/static/bundle/no-scripts.css' type='text/css' /></noscript>
+<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Feed" href="https://muann.local/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Comments Feed" href="https://muann.local/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Muann &raquo; Uncategorized Category Feed" href="https://muann.local/category/uncategorized/feed/" />
+<noscript><link rel='stylesheet' href='https://muann.local/wp-content/themes/blocksy/static/bundle/no-scripts.css' type='text/css' /></noscript>
 <style id="ct-main-styles-inline-css">.entry-header .page-title {--fontSize:32px;}.entry-header .entry-meta {--fontWeight:600;--textTransform:uppercase;--fontSize:12px;--lineHeight:1.5;}.entry-header .ct-breadcrumbs {--fontWeight:600;--textTransform:uppercase;--fontSize:12px;}.hero-section[data-type="type-1"] {--margin-bottom:50px;}</style>
 <style id="ct-main-styles-tablet-inline-css" media="(max-width: 999.98px)">.entry-header .page-title {--fontSize:30px;}.hero-section[data-type="type-1"] {--margin-bottom:30px;}</style>
 <style id="ct-main-styles-mobile-inline-css" media="(max-width: 689.98px)">.entry-header .page-title {--fontSize:25px;}</style>
-<link rel='stylesheet' id='blocksy-dynamic-global-css'  href='http://muann.local/wp-content/uploads/blocksy/css/global.css?ver=20084' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://muann.local/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://muann.local/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='blocksy-dynamic-global-css'  href='https://muann.local/wp-content/uploads/blocksy/css/global.css?ver=20084' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://muann.local/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://muann.local/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
 <link rel='stylesheet' id='blocksy-fonts-font-source-google-css'  href='https://fonts.googleapis.com/css2?family=Red%20Hat%20Display:wght@400;500;600;700&#038;display=swap' type='text/css' media='all' />
-<link rel='stylesheet' id='ct-main-styles-css'  href='http://muann.local/wp-content/themes/blocksy/static/bundle/main.css?ver=1.7.71' type='text/css' media='all' />
-<link rel="https://api.w.org/" href="http://muann.local/wp-json/" /><link rel="alternate" type="application/json" href="http://muann.local/wp-json/wp/v2/categories/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://muann.local/xmlrpc.php?rsd" />
+<link rel='stylesheet' id='ct-main-styles-css'  href='https://muann.local/wp-content/themes/blocksy/static/bundle/main.css?ver=1.7.71' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://muann.local/wp-json/" /><link rel="alternate" type="application/json" href="https://muann.local/wp-json/wp/v2/categories/1" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://muann.local/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.6.2" />
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-150x150.png" sizes="32x32" />
-<link rel="icon" href="http://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="http://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" />
-<meta name="msapplication-TileImage" content="http://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://muann.local/wp-content/uploads/2021/02/Muann-SiteIcon-300x300.png" />
 		<style type="text/css" id="wp-custom-css">
 			.default-logo 
 {
@@ -47,7 +47,7 @@
 	class="site-branding"
 	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
 
-			<a href="http://muann.local/" class="site-logo-container" rel="home"><img width="1008" height="659" src="http://muann.local/wp-content/uploads/2021/02/Muann-Logo-Website-03-Gradient.png" class="default-logo" alt="Logo gradient" loading="lazy" /></a>	
+			<a href="https://muann.local/" class="site-logo-container" rel="home"><img width="1008" height="659" src="https://muann.local/wp-content/uploads/2021/02/Muann-Logo-Website-03-Gradient.png" class="default-logo" alt="Logo gradient" loading="lazy" /></a>	
 	</div>
 
 </div></div><div data-column="middle" ><div data-items="" >
@@ -55,19 +55,19 @@
 	id="header-menu-1"
 	class="header-menu-1"
 	data-id="menu" 	data-menu="type-1"
-	data-dropdown="type-3:padded"		data-responsive="no"	itemscope="" itemtype="http://schema.org/SiteNavigationElement" >
+	data-dropdown="type-3:padded"		data-responsive="no"	itemscope="" itemtype="https://schema.org/SiteNavigationElement" >
 
-	<ul id="menu-main-menu" class="menu"><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-44"><a href="http://muann.local/">Home</a></li>
+	<ul id="menu-main-menu" class="menu"><li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-44"><a href="https://muann.local/">Home</a></li>
 <li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="#">Beauty</a></li>
 <li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-106 animated-submenu"><a href="#">Tattoo<span class="child-indicator"><svg width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a>
 <ul class="sub-menu">
-	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://muann.local/lichaamstattoos/">Lichaamstattoos</a></li>
-	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://muann.local/permanente-make-up/">Permanente make up</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://muann.local/lichaamstattoos/">Lichaamstattoos</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://muann.local/permanente-make-up/">Permanente make up</a></li>
 </ul>
 </li>
-<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://muann.local/vragen/">Vragen</a></li>
-<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://muann.local/blog/">Blog</a></li>
-<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="http://muann.local/contact/">Contact</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://muann.local/vragen/">Vragen</a></li>
+<li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="https://muann.local/blog/">Blog</a></li>
+<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://muann.local/contact/">Contact</a></li>
 </ul></nav>
 
 </div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
@@ -154,7 +154,7 @@
 	class="site-branding"
 	data-id="logo" 		itemscope="itemscope" itemtype="https://schema.org/Organization" >
 
-			<a href="http://muann.local/" class="site-logo-container" rel="home"><img width="1008" height="659" src="http://muann.local/wp-content/uploads/2021/02/Muann-Logo-Website-03-Gradient.png" class="default-logo" alt="Logo gradient" loading="lazy" /></a>	
+			<a href="https://muann.local/" class="site-logo-container" rel="home"><img width="1008" height="659" src="https://muann.local/wp-content/uploads/2021/02/Muann-Logo-Website-03-Gradient.png" class="default-logo" alt="Logo gradient" loading="lazy" /></a>	
 	</div>
 
 </div></div><div data-column="end" data-placements="1" ><div data-items="primary" >
@@ -185,9 +185,9 @@
 	<header class="entry-header">
 		<h1 class="page-title" itemprop="headline" ><span class="ct-title-label">Category</span> <span>Uncategorized</span></h1>	</header>
 </section>
-<div class="entries" data-layout="grid" data-cards="boxed"  data-column-set="3"  ><article id="post-1" class="entry-card post-1 post type-post status-publish format-standard hentry category-uncategorized" ><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="http://muann.local/category/uncategorized/" rel="tag">Uncategorized</a></li></ul>
+<div class="entries" data-layout="grid" data-cards="boxed"  data-column-set="3"  ><article id="post-1" class="entry-card post-1 post type-post status-publish format-standard hentry category-uncategorized" ><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-categories" data-type="simple"><a href="https://muann.local/category/uncategorized/" rel="tag">Uncategorized</a></li></ul>
 	<h2 class="entry-title">
-		<a href="http://muann.local/hello-world/">
+		<a href="https://muann.local/hello-world/">
 			Hello world!		</a>
 	</h2>
 
@@ -195,7 +195,7 @@
 	<div class="entry-excerpt">
 		Welcome to WordPress. This is your first post. Edit or delete it, then start writing!	</div>
 
-	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="name" ><a class="ct-meta-element-author" href="http://muann.local/author/dieteradmin/" title="Posts by dieteradmin" rel="author" itemprop="author" >dieteradmin</a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-02-27T14:14:48+00:00" >February 27, 2021</time></li><li class="meta-comments"><a href="http://muann.local/hello-world/#comments">1 Comment</a></li></ul></article></div>	</section>
+	<div class="ct-ghost"></div><ul class="entry-meta" data-type="simple:slash"  ><li class="meta-author" itemprop="name" ><a class="ct-meta-element-author" href="https://muann.local/author/dieteradmin/" title="Posts by dieteradmin" rel="author" itemprop="author" >dieteradmin</a></li><li class="meta-date" itemprop="datePublished" ><time class="ct-meta-element-date" datetime="2021-02-27T14:14:48+00:00" >February 27, 2021</time></li><li class="meta-comments"><a href="https://muann.local/hello-world/#comments">1 Comment</a></li></ul></article></div>	</section>
 
 	</div>
 
@@ -229,29 +229,29 @@
 		</div>
 		<div class="ct-panel-content" data-device="desktop" ></div><div class="ct-panel-content" data-device="mobile" >
 <nav class="mobile-menu has-submenu" data-id="mobile-menu" data-type="type-1" >
-	<ul id="menu-main-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-44"><a href="http://muann.local/">Home</a></li>
+	<ul id="menu-main-menu-1" class=""><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-44"><a href="https://muann.local/">Home</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="#">Beauty</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-106"><a href="#">Tattoo<span class="child-indicator"><svg width="8" height="8" viewBox="0 0 15 15"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"/></svg></span></a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://muann.local/lichaamstattoos/">Lichaamstattoos</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://muann.local/permanente-make-up/">Permanente make up</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://muann.local/lichaamstattoos/">Lichaamstattoos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://muann.local/permanente-make-up/">Permanente make up</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://muann.local/vragen/">Vragen</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="http://muann.local/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="http://muann.local/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://muann.local/vragen/">Vragen</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274"><a href="https://muann.local/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-185"><a href="https://muann.local/contact/">Contact</a></li>
 </ul></nav>
-</div></section></div></div><script type='text/javascript' src='http://muann.local/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+</div></section></div></div><script type='text/javascript' src='https://muann.local/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
 <script type='text/javascript' id='wp-polyfill-js-after'>
-( 'fetch' in window ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://muann.local/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+( 'fetch' in window ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://muann.local/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
 </script>
-<script type='text/javascript' src='http://muann.local/wp-includes/js/dist/i18n.min.js?ver=ac389435e7fd4ded01cf603f3aaba6a6' id='wp-i18n-js'></script>
-<script type='text/javascript' src='http://muann.local/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-includes/js/dist/i18n.min.js?ver=ac389435e7fd4ded01cf603f3aaba6a6' id='wp-i18n-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
 <script type='text/javascript' id='lodash-js-after'>
 window.lodash = _.noConflict();
 </script>
-<script type='text/javascript' src='http://muann.local/wp-includes/js/dist/url.min.js?ver=98645f0502e5ed8dadffd161e39072d2' id='wp-url-js'></script>
-<script type='text/javascript' src='http://muann.local/wp-includes/js/dist/hooks.min.js?ver=84b89ab09cbfb4469f02183611cc0939' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-includes/js/dist/url.min.js?ver=98645f0502e5ed8dadffd161e39072d2' id='wp-url-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-includes/js/dist/hooks.min.js?ver=84b89ab09cbfb4469f02183611cc0939' id='wp-hooks-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-translations'>
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
@@ -259,28 +259,28 @@ window.lodash = _.noConflict();
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type='text/javascript' src='http://muann.local/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3' id='wp-api-fetch-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3' id='wp-api-fetch-js'></script>
 <script type='text/javascript' id='wp-api-fetch-js-after'>
-wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://muann.local/wp-json/" ) );
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://muann.local/wp-json/" ) );
 wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "e813c49f96" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
-wp.apiFetch.nonceEndpoint = "http://muann.local/wp-admin/admin-ajax.php?action=rest-nonce";
+wp.apiFetch.nonceEndpoint = "https://muann.local/wp-admin/admin-ajax.php?action=rest-nonce";
 </script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
 var wpcf7 = [];
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://muann.local/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
-<script type='text/javascript' src='http://muann.local/wp-content/themes/blocksy/static/bundle/events.js?ver=1.7.71' id='ct-events-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-content/themes/blocksy/static/bundle/events.js?ver=1.7.71' id='ct-events-js'></script>
 <script type='text/javascript' id='ct-scripts-js-extra'>
 /* <![CDATA[ */
-var ct_localizations = {"ajax_url":"http:\/\/muann.local\/wp-admin\/admin-ajax.php","nonce":"d528aa41ca","public_url":"http:\/\/muann.local\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"http:\/\/muann.local\/wp-json\/","search_url":"http:\/\/muann.local\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","internet_explorer_template":"<div class=\"ct-unsuported-browser\">\n\t<svg width=\"120px\" height=\"120px\" viewBox=\"0 0 100 100\">\n\t\t<path d=\"M14.8,54.7c-1.3,0-2.3-1-2.3-2.3v-4.7c0-1.3,1-2.3,2.3-2.3s2.3,1,2.3,2.3v4.7C17.2,53.7,16.1,54.7,14.8,54.7zM35.6,79.6l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C37.1,81.7,36.7,80.2,35.6,79.6z M68.4,77.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S69.5,76.6,68.4,77.3zM82.8,47.7v4.7c0,1.3,1,2.3,2.3,2.3s2.3-1,2.3-2.3v-4.7c0-1.3-1-2.3-2.3-2.3S82.8,46.3,82.8,47.7zM70.8,18.7l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C72.3,20.8,71.9,19.3,70.8,18.7zM33.3,16.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S34.4,15.7,33.3,16.3z M60.2,10.2c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,0,50,0S60.2,4.5,60.2,10.2zM55.5,10.2c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,13.2,55.5,10.2z M60.2,89.8c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,79.7,50,79.7S60.2,84.2,60.2,89.8zM55.5,89.8c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,92.9,55.5,89.8zM95.3,70.3c0,5.6-4.5,10.2-10.2,10.2S75,75.9,75,70.3s4.5-10.2,10.2-10.2S95.3,64.7,95.3,70.3zM90.6,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S90.6,73.4,90.6,70.3zM75,29.7c0-5.6,4.5-10.2,10.2-10.2s10.2,4.5,10.2,10.2s-4.5,10.2-10.2,10.2S75,35.3,75,29.7zM79.7,29.7c0,3,2.4,5.5,5.5,5.5s5.5-2.4,5.5-5.5s-2.4-5.5-5.5-5.5S79.7,26.6,79.7,29.7z M25,29.7c0,5.6-4.5,10.2-10.2,10.2S4.7,35.3,4.7,29.7s4.5-10.2,10.2-10.2S25,24.1,25,29.7zM20.3,29.7c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,32.7,20.3,29.7zM25,70.3c0,5.6-4.5,10.2-10.2,10.2S4.7,75.9,4.7,70.3s4.5-10.2,10.2-10.2S25,64.7,25,70.3z M20.3,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,73.4,20.3,70.3z\"\/>\n\t\t<path d=\"M64.6,52.7c0,1-1.9,3.9-4.8,5.3c-1.7,0.9-7-3.4-5.9-4.8s3.4,0.5,4.7-0.5C63.2,49.5,64.6,51.6,64.6,52.7zM71.9,50c0,12-9.8,21.9-21.9,21.9S28.1,62,28.1,50S38,28.1,50,28.1S71.9,38,71.9,50z M67.2,50c0-1.6-0.2-3.1-0.8-4.5l-1.2-0.3h-1.8c-1.1,0-2.1-0.5-2.7-1.3C59.8,42.7,59,41,58.4,41c-0.8,0-2.1,5.5-4.8,5.5c-2.1,0-3.9-4.6-3.3-6.2c0.9-2.3,2.8-1.8,4.8-2.7c0.9-0.4,1.5-1.3,1.5-2.3v-1.2c-2-0.9-4.2-1.3-6.6-1.3c-8.6,0-15.7,6.3-17.1,14.6l1.2-0.1c0.7,0.1,1.3,0.4,1.4,0.9c0.3,2-1.8,2.7-1.2,4.3c0.5,1.5,2.5,2,3.5,1c1-0.9,2.2-3,2.4-4.9c0.3-3.3,4.4-4.8,6.1-1.8c0.5,0.9,0.2,2.5-0.8,3.6s-2.7,2-2.6,3.4c0.2,1.2,4.8,1.4,3.4,6.7c-0.2,0.8-0.6,1.5-1,2.1c-0.3,0.5-0.7,0.9-1.2,1.3c-0.7,0.5-1.4,0.9-2,1.2H42c2.4,1.2,5.2,2,8,2C59.5,67.2,67.2,59.5,67.2,50z\"\/>\n\t<\/svg>\n\n\n\t<h2>\n\t\tYou are using an old or unsupported browser\t<\/h2>\n\n\t<p>\n\t\tFor <b><a href=\"https:\/\/mashable.com\/article\/internet-explorer-vulnerability-just-stop-using-it\/\" target=\"_blank\">security reasons<\/a><\/b> and to get the most out of your theme please upgrade to the latest version of <a href=\"https:\/\/www.microsoft.com\/en-us\/windows\/microsoft-edge\" target=\"_blank\">your browser<\/a> or use one of these browsers instead <a href=\"https:\/\/www.google.com\/chrome\/\" target=\"_blank\">Chrome<\/a>, <a href=\"https:\/\/support.apple.com\/downloads\/safari\" target=\"_blank\">Safari<\/a> or <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\" target=\"_blank\">Firefox <\/a>.\t<\/p>\n<\/div>\n\n"};
+var ct_localizations = {"ajax_url":"https:\/\/muann.local\/wp-admin\/admin-ajax.php","nonce":"d528aa41ca","public_url":"https:\/\/muann.local\/wp-content\/themes\/blocksy\/static\/bundle\/","rest_url":"https:\/\/muann.local\/wp-json\/","search_url":"https:\/\/muann.local\/search\/QUERY_STRING\/","show_more_text":"Show more","more_text":"More","internet_explorer_template":"<div class=\"ct-unsuported-browser\">\n\t<svg width=\"120px\" height=\"120px\" viewBox=\"0 0 100 100\">\n\t\t<path d=\"M14.8,54.7c-1.3,0-2.3-1-2.3-2.3v-4.7c0-1.3,1-2.3,2.3-2.3s2.3,1,2.3,2.3v4.7C17.2,53.7,16.1,54.7,14.8,54.7zM35.6,79.6l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C37.1,81.7,36.7,80.2,35.6,79.6z M68.4,77.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S69.5,76.6,68.4,77.3zM82.8,47.7v4.7c0,1.3,1,2.3,2.3,2.3s2.3-1,2.3-2.3v-4.7c0-1.3-1-2.3-2.3-2.3S82.8,46.3,82.8,47.7zM70.8,18.7l-4.1-2.3c-1.1-0.6-2.6-0.2-3.2,0.9s-0.2,2.6,0.9,3.2l4.1,2.3c0.4,0.2,0.8,0.3,1.2,0.3c0.8,0,1.6-0.4,2-1.2C72.3,20.8,71.9,19.3,70.8,18.7zM33.3,16.3l-4.1,2.3c-1.1,0.6-1.5,2.1-0.9,3.2c0.5,0.8,1.2,1.2,2,1.2c0.4,0,0.8-0.1,1.2-0.3l4.1-2.3c1.1-0.6,1.5-2.1,0.9-3.2S34.4,15.7,33.3,16.3z M60.2,10.2c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,0,50,0S60.2,4.5,60.2,10.2zM55.5,10.2c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,13.2,55.5,10.2z M60.2,89.8c0,5.6-4.5,10.2-10.2,10.2s-10.2-4.5-10.2-10.2S44.4,79.7,50,79.7S60.2,84.2,60.2,89.8zM55.5,89.8c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S55.5,92.9,55.5,89.8zM95.3,70.3c0,5.6-4.5,10.2-10.2,10.2S75,75.9,75,70.3s4.5-10.2,10.2-10.2S95.3,64.7,95.3,70.3zM90.6,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S90.6,73.4,90.6,70.3zM75,29.7c0-5.6,4.5-10.2,10.2-10.2s10.2,4.5,10.2,10.2s-4.5,10.2-10.2,10.2S75,35.3,75,29.7zM79.7,29.7c0,3,2.4,5.5,5.5,5.5s5.5-2.4,5.5-5.5s-2.4-5.5-5.5-5.5S79.7,26.6,79.7,29.7z M25,29.7c0,5.6-4.5,10.2-10.2,10.2S4.7,35.3,4.7,29.7s4.5-10.2,10.2-10.2S25,24.1,25,29.7zM20.3,29.7c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,32.7,20.3,29.7zM25,70.3c0,5.6-4.5,10.2-10.2,10.2S4.7,75.9,4.7,70.3s4.5-10.2,10.2-10.2S25,64.7,25,70.3z M20.3,70.3c0-3-2.4-5.5-5.5-5.5s-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5S20.3,73.4,20.3,70.3z\"\/>\n\t\t<path d=\"M64.6,52.7c0,1-1.9,3.9-4.8,5.3c-1.7,0.9-7-3.4-5.9-4.8s3.4,0.5,4.7-0.5C63.2,49.5,64.6,51.6,64.6,52.7zM71.9,50c0,12-9.8,21.9-21.9,21.9S28.1,62,28.1,50S38,28.1,50,28.1S71.9,38,71.9,50z M67.2,50c0-1.6-0.2-3.1-0.8-4.5l-1.2-0.3h-1.8c-1.1,0-2.1-0.5-2.7-1.3C59.8,42.7,59,41,58.4,41c-0.8,0-2.1,5.5-4.8,5.5c-2.1,0-3.9-4.6-3.3-6.2c0.9-2.3,2.8-1.8,4.8-2.7c0.9-0.4,1.5-1.3,1.5-2.3v-1.2c-2-0.9-4.2-1.3-6.6-1.3c-8.6,0-15.7,6.3-17.1,14.6l1.2-0.1c0.7,0.1,1.3,0.4,1.4,0.9c0.3,2-1.8,2.7-1.2,4.3c0.5,1.5,2.5,2,3.5,1c1-0.9,2.2-3,2.4-4.9c0.3-3.3,4.4-4.8,6.1-1.8c0.5,0.9,0.2,2.5-0.8,3.6s-2.7,2-2.6,3.4c0.2,1.2,4.8,1.4,3.4,6.7c-0.2,0.8-0.6,1.5-1,2.1c-0.3,0.5-0.7,0.9-1.2,1.3c-0.7,0.5-1.4,0.9-2,1.2H42c2.4,1.2,5.2,2,8,2C59.5,67.2,67.2,59.5,67.2,50z\"\/>\n\t<\/svg>\n\n\n\t<h2>\n\t\tYou are using an old or unsupported browser\t<\/h2>\n\n\t<p>\n\t\tFor <b><a href=\"https:\/\/mashable.com\/article\/internet-explorer-vulnerability-just-stop-using-it\/\" target=\"_blank\">security reasons<\/a><\/b> and to get the most out of your theme please upgrade to the latest version of <a href=\"https:\/\/www.microsoft.com\/en-us\/windows\/microsoft-edge\" target=\"_blank\">your browser<\/a> or use one of these browsers instead <a href=\"https:\/\/www.google.com\/chrome\/\" target=\"_blank\">Chrome<\/a>, <a href=\"https:\/\/support.apple.com\/downloads\/safari\" target=\"_blank\">Safari<\/a> or <a href=\"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/\" target=\"_blank\">Firefox <\/a>.\t<\/p>\n<\/div>\n\n"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://muann.local/wp-content/themes/blocksy/static/bundle/main.js?ver=1.7.71' id='ct-scripts-js'></script>
-<script type='text/javascript' src='http://muann.local/wp-content/plugins/blocksy-companion/static/bundle/main.js?ver=1.7.63' id='blocksy-companion-scripts-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-content/themes/blocksy/static/bundle/main.js?ver=1.7.71' id='ct-scripts-js'></script>
+<script type='text/javascript' src='https://muann.local/wp-content/plugins/blocksy-companion/static/bundle/main.js?ver=1.7.63' id='blocksy-companion-scripts-js'></script>
 
 </body>
 </html>
